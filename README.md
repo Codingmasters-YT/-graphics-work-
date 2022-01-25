@@ -1,2 +1,1 @@
-# Lavitra-graphics-work-
-graphics work done by Lavitra 
+Some Graphics Work done by us for our projects
